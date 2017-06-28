@@ -1,0 +1,1493 @@
+#MyData
+
+
+
+
+
+--------------------------------------------------------------------------------------
+#Prices
+
+
+
+---------------------------------------------------------------------------------------
+
+
+#SyllAbus
+
+
+I Year – I SEMESTER
+
+
+1.   ADVANCED DATA STRUCTURES AND ALGORITHM ANAYLSIS
+
+UNIT- I:
+Introduction to Data Structures, Singly Linked Lists, Doubly Linked Lists, Circular Lists-Algorithms.
+Stacks and Queues: Algorithm Implementation using Linked Lists.
+UNIT-II:
+Searching-Linear and Binary Search Methods. Sorting-Bubble Sort, Selection Sort, Insertion Sort, Quick
+Sort, Merge Sort. Trees- Binary trees, Properties, Representation and Traversals (DFT, BFT),
+Expression Trees(Infix,prefix,postfix).Graphs-Basic Concepts , Storage Structures and Traversals.
+UNIT- III:
+Dictionaries, ADT, The List ADT, Stack ADT, Queue ADT, Hash Table Representation, Hash
+Functions, Collision Resolution-Separate Chaining, Open Addressing-Linear Probing, Double Hashing.
+UNIT- IV:
+Priority queues- Definition, ADT, Realising a Priority Queue Using Heaps, Definition, Insertion,
+Deletion .Search Trees- Binary Search Trees, Definition, ADT, Implementation, Operations-Searching,
+Insertion, Deletion.
+UNIT –V:
+Search Trees- AVL Trees, Definition, Height of AVL Tree, Operations, Insertion, Deletion and
+Searching. Search Trees- Introduction to Red-Black and Splay Trees, B-Trees, Height of B-Tree,
+Insertion, Deletion and Searching, Comparison of Search Trees.
+TEXT BOOKS:
+1. Data Structures: A Pseudocode Approach, 2/e, Richard F.Gilberg, Behrouz A. Forouzon, Cengage.
+2. Data Structures, Algorithms and Applications in java, 2/e, Sartaj Sahni, University Press.
+REFERENCES BOOKS:
+1. Data Structures And Algorithm Analysis, 2/e, Mark Allen Weiss, Pearson.
+2. Data Structures And Algorithms, 3/e, Adam Drozdek, Cengage.
+3. C and Data Structures: A Snap Shot Oriented Treatise Using Live Engineering Examples,
+N.B.
+
+Online Downloadable Books
+
+
+https://www.inf.ethz.ch/personal/wirth/AD.pdf(200 pages)
+http://kitabxana.net/files/books/file/1354098277.pdf?bcsi_scan_510c2960d4f4e50e=0&bcsi_scan_filename=1354098277.pdf(680 pages)
+https://people.cs.vt.edu/shaffer/Book/Java3e20120102.pdf (602 pages)
+https://www.tutorialspoint.com/data_structures_algorithms/dsa_pdf_version.htm (202) best
+
+
+
+
+
+2.  MATHEMATICAL FOUNDATIONS OF COMPUTER SCIENCE
+
+UNIT- I:
+Mathematical Logic: Statements and notations, Connectives, Well formed formulas, Truth Tables,
+tautology, equivalence implication, Normal forms, Theory of inference for the statement calculus, Rules
+of inference, Consistency of premises and indirect method of proof, Automatic Theorem Proving
+Predicate calculus: Predicates, statement functions, variables and quantifiers, predicate formulas, free &
+bound variables, universe of discourse, inference theory of predicate calculus
+UNIT- II :
+Set theory & Relations: Introduction, Relations and ordering, Properties of binary Relations,
+Equivalence, Compatibility Relations, Partial ordering, Hasse diagram. Functions: composition of
+functions, Inverse Function, Recursive Functions, Lattice and its Properties, Pigeon hole Principles and
+its application. Algebraic structures: Algebraic systems, Examples and general properties, Semi groups
+and Monoids, groups, sub groups, Definitions, Examples, homomorphism, Isomorphism and related
+problems.
+UNIT- III:
+Elementary Combinatorics: Basis of counting, Enumeration of Combinations & Permutations,
+Enumerating of Combinations & Permutations with repetitions and constrained repetitions,
+Binomial Coefficients, Binomial Multinomial theorems, principles of Inclusion – Exclusion.
+UNIT- IV:
+Recurrence Relations: Generating Function of Sequences, Calculating Coefficient of generating
+functions, Recurrence relations, Solving recurrence relation by substitution and Generating
+functions, The method of Characteristic roots, Solution of Inhomogeneous Recurrence Relation.
+UNIT- V:
+Graph Theory: Representation of Graph, Spanning Trees, BFS, DFS, Kruskals Algorithm, Binary trees,
+Planar Graphs, Graph Theory and Applications, Basic Concepts, Isomorphism and Sub graphs, Multi
+graphs and Euler circuits, Hamiltonian graphs, Chromatic Numbers
+TEXT BOOKS:
+1. Discrete Mathematical Structures with Applications to computer science J.P Tremblery,
+R.Manohar, TMH
+2. Discrete Mathematical for computer Scientists & Mathematicians “ J.L. Molt, A.Kandel
+T.P.Baker, PHI
+REFERENCE TEXTBOOKS:
+1. Elements of Discrete Mathematics, C L Liu, D P Mohanpatra, TMH
+2. Discrete Mathematics, Schaum’s Outlines, Lipschutz, Lipson TMH.
+
+Online books
+http://www.rajalakshmi.org/downloads/MC1651-NOL.pdf(280pages)
+http://zhpsj.org/wp-content/uploads/2015/01/8122422942-Mathematical_Foundation.pdf?bcsi_scan_510c2960d4f4e50e=0&bcsi_scan_filename=8122422942-Mathematical_Foundation.pdf(398)
+
+
+3.   COMPUTER ORGANIZATION AND ARCHITECTURE
+
+UNIT- I:
+Number Systems And Computer Arithmetic Signed And Unsigned Numbers, Addition and Subtraction,
+Multiplication, Division, Floating Point Representation Logical Operation, Gray Code, BCD Code,
+Error Detecting Codes. Boolean Algebra, Simplification of Boolean Expressions- Maps.
+UNIT- II:
+Combinational and Sequential Circuits Decoders, Encoders, Multiplexers, Half and Full Adders, Shift
+Registers, Flip-Flops, Binary Counters, Memory Unit.
+UNIT- III:
+Memory Organisation Memory Hierarchy, Main Memory, Auxiliary Memory, Associative Memory,
+Cache Memory, Virtual Memory Concept.
+UNIT- IV:
+ALU Design Addition and Subtraction, Sign and Unsigned Numbers, Multiplication and Division
+Algorithms, BCD Adders.
+UNIT- V :
+Input –Output Organisation Peripheral Devices, Input-Output Interface, Asynchronous data transfer,
+Modes of Transfer, Priority Interrupts, DMA, Input Output Processor, Serial Communication.
+TEXT BOOKS:
+1. Computer System Architecture, 3/e, Moris Mano, Pearson/PHI.
+2. Micro Processor and Interfacing, 2/e, Douglas V.Hall, TMH.
+REFERENCE BOOKS:
+1. Digital Logic and Computer Organisation, Rajaraman, Radha Krishnan, PHI.
+2. Micro Computer Systems: 8086/8088 family, 2/e, Liu, Gibson, PHI.
+3. Computer Organisation and Architecture, 7/e, Stallings, Pearson.
+
+
+
+4.  DATABASE MANAGEMENT SYSTEMS
+
+UNIT- I:
+Database System Applications, Purpose of Database Systems, View of Data – Data Abstraction,
+Instances and Schemas, Data Models – the ER Model, Relational Model, Other Models – Database
+Languages – DDL, DML, Database Access from Applications Programs, Transaction Management,
+Data Storage and Querying, Database Architecture, Database Users and Administrators, History of
+Database Systems. Introduction to Database design, ER diagrams, Beyond ER Design, Entities,
+Attributes and Entity sets, Relationships and Relationship sets, Additional features of ER Model,
+Conceptual Design with the ER Model, Conceptual Design for Large enterprises. Relational Model:
+Introduction to the Relational Model – Integrity Constraints Over Relations, Enforcing Integrity
+constraints, Querying relational data, Logical data base Design, Introduction to Views – Destroying
+/altering Tables and Views.
+UNIT- II :
+Relational Algebra and Calculus: Relational Algebra – Selection and Projection, Set operations,
+Renaming, Joins, Division, Examples of Algebra Queries, Relational calculus – Tuple relational
+Calculus – Domain relational calculus – Expressive Power of Algebra and calculus. Form of Basic SQL
+Query – Examples of Basic SQL Queries, Introduction to Nested Queries, Correlated Nested Queries,
+Set – Comparison Operators, Aggregate Operators, NULL values – Comparison using Null values –
+Logical connectives – AND, OR and NOT – Impact on SQL Constructs, Outer Joins, Disallowing
+NULL values, Complex Integrity Constraints in SQL Triggers and Active Data bases.
+UNIT- III :
+Introduction to Schema Refinement – Problems Caused by redundancy, Decompositions – Problem
+related to decomposition, Functional
+Dependencies - Reasoning about FDS, Normal Forms – FIRST, SECOND, THIRD Normal forms –
+BCNF –Properties of Decompositions- Loss less- join Decomposition, Dependency preserving
+Decomposition, Schema Refinement in Data base Design – Multi valued Dependencies – FOURTH
+Normal Form, Join Dependencies, FIFTH Normal form, Inclusion Dependencies.
+UNIT- IV:
+Overview of Transaction Management: The ACID Properties, Transactions and Schedules, Concurrent
+Execution of Transactions – Lock Based Concurrency Control, Deadlocks – Performance of Locking –
+Transaction Support in SQL. Concurrency Control: Serializability, and recoverability – Introduction to
+Lock Management – Lock Conversions, Dealing with Dead Locks, Specialized Locking Techniques –
+Concurrency Control without Locking. Crash recovery: Introduction to Crash recovery, Introduction to
+ARIES, the Log , Other Recovery related Structures, the Write-Ahead Log Protocol, Check pointing,
+recovering from a System Crash, Media recovery
+
+ UNIT-V:
+Overview of Storage and Indexing: Data on External Storage, File Organization and Indexing –
+Clustered Indexes, Primary and Secondary Indexes, Index data Structures – Hash Based Indexing, Tree
+based Indexing, Comparison of File Organizations. Storing data: Disks and Files: -The Memory
+Hierarchy – Redundant Arrays of Independent Disks. Tree Structured Indexing: Intuitions for tree
+Indexes, Indexed Sequential Access Methods (ISAM) B+ Trees: A Dynamic Index Structure, Search,
+Insert, Delete. Hash Based Indexing: Static Hashing, Extendable hashing, Linear Hashing, Extendble
+vs.Linear Hashing.
+TEXT BOOKS:
+1. Database Management Systems, Raghu Ramakrishna, Johannes Gehrke, TMH, 3rd Edition,
+2003.
+2. Database System Concepts, A.Silberschatz, H.F. Korth, S. Sudarshan, McGraw hill, VI
+edition, 2006.
+3. Fundamentals of Database Systems 5th edition. Ramez Elmasri, Shamkant B.Navathe,
+Pearson Education, 2008.
+REFERENCE BOOKS:
+1. Database Management System Oracle SQL and PL/SQL,P.K.Das Gupta, PHI.
+2. Database System Concepts, Peter Rob & Carlos Coronel, Cengage Learning, 2008.
+3. Database Systems, A Practical approach to Design Implementation and Management Fourth
+edition, Thomas Connolly, Carolyn Begg, Pearson education.
+
+
+
+
+5.   ADVANCED OPERATING SYSTEMS
+
+UNIT - I:
+Architectures of Distributed Systems - System Architecture types - issues in distributed operating
+systems - communication networks - communication primitives. Theoretical Foundations - inherent
+limitations of a distributed system - lamp ports logical clocks - vector clocks - casual ordering of
+messages - global state - cuts of a distributed computation - termination detection. Distributed Mutual
+Exclusion - introduction - the classification of mutual exclusion and associated algorithms - a
+comparative performance analysis.
+UNIT - II:
+Distributed Deadlock Detection -Introduction - deadlock handling strategies in distributed systems -
+issues in deadlock detection and resolution - control organizations for distributed deadlock detection -
+centralized and distributed deadlock detection algorithms -hierarchical deadlock detection algorithms.
+Agreement protocols - introduction-the system model, a classification of agreement problems, solutions
+to the Byzantine agreement problem, applications of agreement algorithms. Distributed resource
+management: introduction-architecture - mechanism for building distributed file systems - design issues
+- log structured file systems.
+UNIT - III:
+Distributed shared memory-Architecture- algorithms for implementing DSM - memory coherence and
+protocols - design issues. Distributed Scheduling - introduction - issues in load distributing -
+components of a load distributing algorithm - stability - load distributing algorithm - performance
+comparison - selecting a suitable load sharing algorithm - requirements for load distributing -task
+migration and associated issues. Failure Recovery and Fault tolerance: introduction- basic concepts -
+classification of failures - backward and forward error recovery, backward error recovery- recovery in
+concurrent systems - consistent set of check points - synchronous and asynchronous check pointing and
+recovery - check pointing for distributed database systems- recovery in replicated distributed databases.
+UNIT - IV:
+Protection and security -preliminaries, the access matrix model and its implementations.-safety in matrix
+model- advanced models of protection. Data security - cryptography: Model of cryptography,
+conventional cryptography- modern cryptography, private key cryptography, data encryption standardpublic
+key cryptography - multiple encryption - authentication in distributed systems.
+UNIT - V:
+Multiprocessor operating systems - basic multiprocessor system architectures - inter connection
+networks for multiprocessor systems - caching - hypercube architecture. Multiprocessor Operating
+System - structures of multiprocessor operating system, operating system design issues- threads- process
+synchronization and scheduling. Database Operating systems :Introduction- requirements of a database
+operating system Concurrency control : theoretical aspects - introduction, database systems - a
+concurrency control model of database systems- the problem of concurrency control - serializability
+theory- distributed database systems, concurrency control algorithms - introduction, basic
+synchronization primitives, lock based algorithms-timestamp based algorithms, optimistic algorithms -
+concurrency control algorithms, data replication.
+
+TEXT BOOKS:
+1. Mukesh Singhal, Niranjan G.Shivaratri, "Advanced concepts in operating systems: Distributed,
+Database and multiprocessor operating systems", TMH, 2001
+REFERENCE Books:
+1. Andrew S.Tanenbaum, "Modern operating system", PHI, 2003
+2. Pradeep K.Sinha, "Distributed operating system-Concepts and design", PHI, 2003.
+3. Andrew S.Tanenbaum, "Distributed operating system", Pearson education, 2003
+
+
+6.  DATA WAREHOUSING AND DATA MINING
+
+UNIT 1: DATA WAREHOUSING:
+Data warehousing Components –Building a Data warehouse –- Mapping the Data Warehouse to
+a Multiprocessor Architecture – DBMS Schemas for Decision Support – Data Extraction, Cleanup,
+and Transformation Tools –Metadata.
+UNIT II: BUSINESS ANALYSIS:
+Reporting and Query tools and Applications – Tool Categories – The Need for Applications –
+Cognos Impromptu – Online Analytical Processing (OLAP) – Need – Multidimensional Data Model –
+OLAP Guidelines – Multidimensional versus Multirelational OLAP – Categories of Tools – OLAP
+Tools and the Internet.
+UNIT III: DATA MINING:
+Introduction – Data – Types of Data – Data Mining Functionalities – Interestingness of Patterns –
+Classification of Data Mining Systems – Data Mining Task Primitives – Integration of a Data
+Mining System with a Data Warehouse – Issues –Data Preprocessing.
+UNIT IV :ASSOCIATION RULE MINING AND CLASSIFICATION:
+Mining Frequent Patterns, Associations and Correlations – Mining Methods – Mining various Kinds
+of Association Rules – Correlation Analysis – Constraint Based Association Mining – Classification
+and Prediction – Basic Concepts – Decision Tree Induction – Bayesian Classification – Rule Based
+Classification – Classification by Back propagation – Support Vector Machines –
+Associative Classification – Lazy Learners – Other Classification Methods – Prediction.
+UNIT V : CLUSTERING AND TRENDS IN DATA MINING:
+Cluster Analysis – Types of Data – Categorization of Major Clustering Methods – K-means–
+Partitioning Methods – Hierarchical Methods – Density-Based Methods –Grid Based Methods –
+Model-Based Clustering Methods – Clustering High Dimensional Data – Constraint – Based Cluster
+Analysis – Outlier Analysis – Data Mining Applications.
+TEXT BOOKS:
+1. Alex Berson and Stephen J.Smith, “Data Warehousing, Data Mining and OLAP”, Tata
+McGraw – Hill Edition, Thirteenth Reprint 2008.
+2. Jiawei Han and Micheline Kamber, “Data Mining Concepts and Techniques”, Third
+Edition, Elsevier, 2012.
+AULibrary.com
+
+REFERENCES:
+1. Pang-Ning Tan, Michael Steinbach and Vipin Kumar, “Introduction to Data Mining”, Person
+Education, 2007.
+2. K.P. Soman, Shyam Diwakar and V. Aja, “Insight into Data Mining Theory and Practice”,
+Eastern Economy Edition, Prentice Hall of India, 2006.
+3. G. K. Gupta, “Introduction to Data Mining with Case Studies”, Eastern Economy Edition,
+Prentice Hall of India, 2006.
+4. Daniel T. Larose, “Data Mining Methods and Models”, Wiley-Interscience, 2006.
+
+
+LAB1. CSE LAB 1
+
+Data Structures Programs:
+1. To implement Stacks& Queues using Arrays & Linked Lists
+2. To implement Stack ADT, Queue ADT using arrays & Linked Lists
+3. To implement Dequeue using Double Linked List & Arrays
+4. To perform various Recursive & Non-recursive operations on Binary Search Tree
+5. To implement BFS & DFS for a graph
+6. To implement Merge & Heap sort of given elements
+7. To perform various operations on AVL trees
+8. To implement Krushkal’s algorithm to generate a min-cost spanning tree
+9. To implement Prim’s algorithm to generate min-cost spanning tree
+10.To implement functions of Dictionary using Hashing
+Operating system programs:
+1. Program to implement FCFS(First Come First Serve)scheduling Algorithms
+2. Program to implement SJF(Shortest Job First)Scheduling Algorithm
+3. Program to implement Priority Scheduling algorithm
+4. Program to implement Round Robin Scheduling algorithm
+5. Program to implement FIFO(First In First Out) Page Replacement Algorithm
+6. Program to implement LRU(least Recently used)Page Replacement Algorithm
+7. Program to implement LFU(Least Frequently used)Page Replacement Algorithm
+8. Write a program to implement how Disk Scheduling is done in operating system
+9. Draw the appropriate C.P.U performance graphs for SJF Scheduling Algorithm
+Operating system programs:
+10. Program to implement FCFS(First Come First Serve)scheduling Algorithms
+11. Program to implement SJF(Shortest Job First)Scheduling Algorithm
+12. Program to implement Priority Scheduling algorithm
+13. Program to implement Round Robin Scheduling algorithm
+14. Program to implement FIFO(First In First Out) Page Replacement Algorithm
+15. Program to implement LRU(least Recently used)Page Replacement Algorithm
+16. Program to implement LFU(Least Frequently used)Page Replacement Algorithm
+17. Write a program to implement how Disk Scheduling is done in operating system
+18. Draw the appropriate C.P.U performance graphs for SJF Scheduling Algorithm
+
+
+I Year – II SEMESTER
+
+
+1.   CYBER SECURITY
+
+UNIT I:
+Introduction:
+Security Attacks (Interruption, Interception, Modification and Fabrication), Security Services
+(Confidentiality, Authentication, Integrity, Non-repudiation, access Control and Availability) and
+Mechanisms, A model for Internetwork security, Internet Standards and RFCs, Buffer overflow &
+format string vulnerabilities, TCP session hijacking, ARP attacks, route table modification, UDP
+hijacking, and man-in-the-middle attacks.
+UNIT II:
+Conventional Encryption:
+Conventional Encryption Principles, Conventional encryption algorithms, cipher block modes of
+operation, location of encryption devices, key distribution Approaches of Message Authentication,
+Secure Hash Functions and HMAC
+UNIT III:
+Number Theory: Prime and Relatively Prime Numbers, Modular Arithmetic, Fermat’s and Euler’s
+Theorems, The Chinese Remainder theorem, Discrete logarithms
+Public key: Public key cryptography principles, public key cryptography algorithms, digital
+signatures, digital Certificates, Certificate Authority and key management Kerberos, X.509
+Directory Authentication Service
+UNIT IV:
+IP Security: IP Security Overview, IP Security Architecture, Authentication Header,
+Encapsulating Security Payload, Combining Security Associations and Key Management
+Transport Level Security: Web Security Requirements, Secure Socket Layer (SSL) and
+Transport Layer Security (TLS), Secure Electronic Transaction (SET)
+Email Privacy: Pretty Good Privacy (PGP) and S/MIME.
+UNIT V:
+Intrusion Detection: Intruders, Intrusion Detection systems, Password Management.
+Malicious Software: Viruses and related threats & Countermeasures.
+Fire walls: Firewall Design principles, Trusted Systems.
+TEXT BOOKS:
+1. Network Security & Cryptography: Principles and Practices, William Stallings, PEA, Sixth
+edition.
+2. Hack Proofing your Network, Russell, Kaminsky, Forest Puppy, Wiley Dreamtech
+REFERENCE BOOKS:
+1. Network Security & Cryptography, Bernard Menezes, Cengage, 2010
+
+
+2.  COMPUTER NETWORKS
+
+UNIT – I:
+Introduction: Network Topologies WAN, LAN, MAN. Reference models- The OSI Reference Modelthe
+TCP/IP Reference Model - A Comparison of the OSI and TCP/IP Reference Models
+UNIT – II:
+Physical Layer – Fourier Analysis – Bandwidth Limited Signals – The Maximum Data Rate of a
+Channel - Guided Transmission Media, Digital Modulation and Multiplexing: Frequency Division
+Multiplexing, Time Division Multiplexing, Code Division Multiplexing
+Data Link Layer Design Issues, Error Detection and Correction, Elementary Data Link Protocols,
+Sliding Window Protocols
+UNIT – III:
+The Data Link Layer - Services Provided to the Network Layer – Framing – Error Control – Flow
+Control, Error Detection and Correction – Error-Correcting Codes – Error Detecting Codes, Elementary
+Data Link Protocols- A Utopian Simplex Protocol-A Simplex Stop and Wait Protocol for an Error free
+channel-A Simplex Stop and Wait Protocol for a Noisy Channel, Sliding Window Protocols-A One Bit
+Sliding Window Protocol-A Protocol Using Go-Back-N- A Protocol Using Selective Repeat
+UNIT – IV:
+The Medium Access Control Sublayer-The Channel Allocation Problem-Static Channel Allocation-
+Assumptions for Dynamic Channel Allocation, Multiple Access Protocols-Aloha-Carrier Sense Multiple
+Multiple Access Protocols-Collision-Free Protocols-Limited Contention Protocols-Wireless LAN
+Protocols, Ethernet-Classic Ethernet Physical Layer-Classic Ethernet MAC Sublayer Protocol-Ethernet
+Performance-Fast Ethernet Gigabit Ethernet-10-Gigabit Ethernet-Retrospective on Ethernet, Wireless
+Lans-The 802.11 Architecture and Protocol Stack-The 802.11 Physical Layer-The802.11 MAC Sublayer
+Protocol-The 805.11 Frame Structure-Services
+UNIT – V:
+Design Issues-The Network Layer Design Issues – Store and Forward Packet Switching-Services
+Provided to the Transport layer- Implementation of Connectionless Service-Implementation of
+Connection Oriented Service-Comparison of Virtual Circuit and Datagram Networks, Routing
+Algorithms-The Optimality principle-Shortest path Algorithm, Congestion Control Algorithms-
+Approaches to Congestion Control-Traffic Aware Routing-Admission Control-Traffic Throttling-Load
+Shedding.
+
+TEXT BOOKS:
+1. Computer Networks, Tanenbaum and David J Wetherall, 5th Edition, Pearson Edu, 2010
+2. Computer Networks: A Top Down Approach, Behrouz A. Forouzan, FirouzMosharraf, McGraw
+Hill Education
+REFERENCE BOOKS:
+1. Larry L. Peterson and Bruce S. Davie, “Computer Networks - A Systems Approach” (5th ed),
+Morgan Kaufmann/ Elsevier, 2011
+
+
+3.   BIG DATA ANALYTICS
+
+UNIT-I
+Data structures in Java: Linked List, Stacks, Queues, Sets, Maps; Generics: Generic classes and Type
+parameters, Implementing Generic Types, Generic Methods, Wrapper Classes, Concept of Serialization
+UNIT-II
+Working with Big Data: Google File System, Hadoop Distributed File System (HDFS) – Building
+blocks of Hadoop (Namenode, Datanode, Secondary Namenode, Job Tracker, Task Tracker),
+Introducing and Configuring Hadoop cluster (Local, Pseudo-distributed mode, Fully Distributed
+mode), Configuring XML files.
+UNIT-III
+Writing MapReduce Programs: A Weather Dataset, Understanding Hadoop API for MapReduce
+Framework (Old and New), Basic programs of Hadoop MapReduce: Driver code, Mapper code,
+Reducer code, Record Reader, Combiner, Partitioner
+UNIT-IV
+Hadoop I/O: The Writable Interface, Writable Comparable and comparators, Writable Classes:
+Writable wrappers for Java primitives, Text, Bytes Writable, Null Writable, Object Writable and
+Generic Writable, Writable collections, Implementing a Custom Writable: Implementing a Raw
+Comparator for speed, Custom comparators
+UNIT-V
+Pig: Hadoop Programming Made Easier
+Admiring the Pig Architecture, Going with the Pig Latin Application Flow, Working through the ABCs
+of Pig Latin, Evaluating Local and Distributed Modes of Running Pig Scripts, Checking out the Pig
+Script Interfaces, Scripting with Pig Latin
+Applying Structure to Hadoop Data with Hive:
+Saying Hello to Hive, Seeing How the Hive is Put Together, Getting Started with Apache Hive,
+Examining the Hive Clients, Working with Hive Data Types, Creating and Managing Databases and
+Tables, Seeing How the Hive Data Manipulation Language Works, Querying and Analyzing Data
+
+TEXT BOOKS:
+1. Big Java 4th Edition, Cay Horstmann, Wiley John Wiley& Sons, INC
+2. Hadoop: The Definitive Guide by Tom White, 3rd Edition, O’reilly
+3. Hadoop in Action by Chuck Lam, MANNING Publ.
+4. Hadoop for Dummies by Dirk deRoos, Paul C.Zikopoulos, Roman B.Melnyk,Bruce Brown,
+Rafael Coss
+REFERENCE BOOKS:
+1. Hadoop in Practice by Alex Holmes, MANNING Publ.
+2. Hadoop MapReduce Cookbook, Srinath Perera, Thilina Gunarathne
+SOFTWARE LINKS:
+1. Hadoop: http://hadoop.apache.org
+2. Hive: https://cwiki.apache.org/confluence/display/Hive/Home
+3. Piglatin: http://pig.apache.org/docs/r0.7.0/tutorial.html
+
+
+4.  ADVANCED UNIX PROGRAMMING
+
+UNIT-I
+Introduction to unix-Brief History-What is Unix-Unix Components-Using Unix-Commands in Unix-
+Some Basic Commands-Command Substitution-Giving Multiple Commands.
+UNIT-II
+The File system –The Basics of Files-What’s in a File-Directories and File Names-Permissions-I Nodes-
+The Directory Hierarchy, File Attributes and Permissions-The File Command knowing the File Type-
+The Chmod Command Changing File Permissions-The Chown Command Changing the Owner of a
+File-The Chgrp Command Changing the Group of a File.
+UNIT-III
+Using the Shell-Command Line Structure-Met characters-Creating New Commands-Command
+Arguments and Parameters-Program Output as Arguments-Shell Variables- -More on I/O Redirection-
+Looping in Shell Programs.
+UNIT-IV
+Filters-The Grep Family-Other Filters-The Stream Editor Sed-The AWK Pattern Scanning and
+processing Language-Good Files and Good Filters.
+UNIT-V
+Shell Programming-Shell Variables-The Export Command-The Profile File a Script Run During
+Starting-The First Shell Script-The read Command-Positional parameters-The $? Variable knowing the
+exit Status-More about the Set Command-The Exit Command-Branching Control Structures-Loop
+Control Structures-The Continue and Break Statement-The Expr Command: Performing Integer
+Arithmetic-Real Arithmetic in Shell Programs-The here Document(<<)-The Sleep Command-
+Debugging Scripts-The Script Command-The Eval Command-The Exec Command. The Process-The
+Meaning-Parent and Child Processes-Types of Processes-More about Foreground and Background
+processes-Internal and External Commands-Process Creation-The Trap Command-The Stty Command-
+The Kill Command-Job Control.
+TEXT BOOKS:
+1. The Unix programming Environment by Brain W. Kernighan& Rob Pike, Pearson.
+2. Introduction to Unix Shell Programming by M.G.Venkateshmurthy, Pearson.
+REFERENCE BOOKS:
+1. Unix and shell programmingby B.M. Harwani, OXFORD university press.
+Elective -1  - SOFTWARE ENGINEERING  (Selected)
+
+
+5.SOFTWARE ENGINEERING  (Elective – 1)
+
+UNIT-I:
+Software and Software Engineering: The Nature of Software, The Unique Nature of Web Apps,
+Software Engineering, Software Process, Software Engineering Practice, Software Myths.
+Process Models: A Generic Process Model, Process Assessment and Improvement, Prescriptive Process
+Models, Specialized Process Models, The Unified Process, Personal and Team Process Models, Process
+Terminology, Product and Process.
+UNIT-II:
+Requirements Analysis And Specification: Requirements Gathering and Analysis, Software
+Requirement Specification (SRS), Formal System Specification.
+Software Design: Overview of the Design Process, How to Characterise of a Design?, Cohesion and
+Coupling, Layered Arrangement of Modules, Approaches to Software Design
+UNIT – III:
+Function-Oriented Software Design: Overview of SA/SD Methodology, Structured Analysis,
+Developing the DFD Model of a System, Structured Design, Detailed Design, Design Review, over
+view of Object Oriented design.
+User Interface Design: Characteristics of Good User Interface, Basic Concepts, Types of User
+Interfaces, Fundamentals of Component-based GUI Development, A User Interface Design
+Methodology.
+UNIT – IV:
+Coding And Testing: Coding, Code Review, Software Documentation, Testing, Unit Testing, Black-
+Box Testing, White-Box Testing, Debugging, Program Analysis Tool, Integration Testing, Testing
+Object-Oriented Programs, System Testing, Some General Issues Associated with Testing
+UNIT – V:
+Software Reliability And Quality Management: Software Reliability, Statistical Testing, Software
+Quality, Software Quality Management System, ISO 9000, SEI Capability Maturity Model.
+Computer Aided Software Engineering: Case and its Scope, Case Environment, Case Support in
+Software Life Cycle, Other Characteristics of Case Tools, Towards Second Generation CASE Tool,
+Architecture of a Case Environment
+
+TEXT BOOKS:
+1. Software Engineering A practitioner’s Approach, Roger S. Pressman, Seventh Edition
+McGraw Hill International Edition.
+2. Fundamentals of Software Engineering, Rajib Mall, Third Edition, PHI.
+3. Software Engineering, Ian Sommerville, Ninth edition, Pearson education
+REFERENCE BOOKS:
+1. Software Engineering : A Primer, Waman S Jawadekar, Tata McGraw-Hill, 2008
+2. Software Engineering, A Precise Approach, Pankaj Jalote, Wiley India,2010.
+3. Software Engineering, Principles and Practices, Deepak Jain, Oxford University Press.
+4. Software Engineering1: Abstraction and modeling, Diner Bjorner, Springer International edition,
+2006.
+
+
+5.ARTIFICIAL INTELLIGENCE         (Elective – 1)
+
+UNIT-I:
+Introduction to artificial intelligence: Introduction ,history, intelligent systems, foundations of AI,
+applications, tic-tac-tie game playing, development of ai languages, current trends in AI
+UNIT-II:
+Problem solving: state-space search and control strategies : Introduction, general problem solving,
+characteristics of problem, exhaustive searches, heuristic search techniques, iterative-deepening a*,
+constraint satisfaction
+Problem reduction and game playing: Introduction, problem reduction, game playing, alpha-beta
+pruning, two-player perfect information games
+UNIT-III:
+Logic concepts: Introduction, propositional calculus, proportional logic, natural deduction system,
+axiomatic system, semantic tableau system in proportional logic, resolution refutation in proportional
+logic, predicate logic
+UNIT-IV:
+Knowledge representation: Introduction, approaches to knowledge representation, knowledge
+representation using semantic network, extended semantic networks for KR, knowledge representation
+using frames advanced knowledge representation techniques: Introduction, conceptual dependency
+theory, script structure, cyc theory, case grammars, semantic web
+UNIT-V:
+Expert system and applications: Introduction phases in building expert systems, expert system versus
+traditional systems, rule-based expert systems blackboard systems truth maintenance systems,
+application of expert systems, list of shells and tools
+TEXT BOOKS:
+1. Artificial Intelligence- Saroj Kaushik, CENGAGE Learning,
+2. Artificial intelligence, A modern Approach , 2nd ed, Stuart Russel, Peter Norvig, PEA
+3. Artificial Intelligence- Rich, Kevin Knight, Shiv Shankar B Nair, 3rd ed, TMH
+4. Introduction to Artificial Intelligence, Patterson, PHI
+REFERNCE BOOKS:
+1. Atificial intelligence, structures and Strategies for Complex problem solving, -George F
+Lugar, 5th ed, PEA
+2. Introduction to Artificial Intelligence, Ertel, Wolf Gang, Springer
+3. Artificial Intelligence, A new Synthesis, Nils J Nilsson, Elsevier
+
+
+5.COMPILER DESIGN                    (Elective – 1)
+
+UNIT – I
+Introduction Language Processing, Structure of a compiler the evaluation of Programming language,
+The Science of building a Compiler application of Compiler Technology. Programming Language
+Basics.
+Lexical Analysis-: The role of lexical analysis buffing, specification of tokens. Recognitions of tokens
+the lexical analyzer generator lexical
+UNIT –II
+Syntax Analysis -: The Role of a parser, Context free Grammars Writing A grammar, top down passing
+bottom up parsing Introduction to Lr Parser.
+UNIT –III
+More Powerful LR parser (LR1, LALR) Using Armigers Grammars Equal Recovery in Lr parser Syntax
+Directed Transactions Definition, Evolution order of SDTS Application of SDTS. Syntax Directed
+Translation Schemes.
+UNIT – IV
+Intermediated Code: Generation Variants of Syntax trees 3 Address code, Types and Deceleration,
+Translation of Expressions, Type Checking. Canted Flow Back patching?
+UNIT – V
+Runtime Environments, Stack allocation of space, access to Non Local date on the stack Heap
+Management code generation – Issues in design of code generation the target Language Address in the
+target code Basic blocks and Flow graphs. A Simple Code generation.
+TEXT BOOKS:
+1. Compilers, Principles Techniques and Tools. Alfred V Aho, Monical S. Lam, Ravi Sethi Jeffery
+D. Ullman,2nd edition,pearson,2007
+2. Compiler Design K.Muneeswaran, OXFORD
+3. Principles of compiler design, 2nd edition, Nandhini Prasad, Elsebier.
+REFERENCE BOOKS:
+1. Compiler Construction, Principles and practice, Kenneth C Louden, CENGAGE
+2. Implementations of Compiler, A New approach to Compilers including the algebraic
+methods,Yunlinsu,SPRINGER
+
+5.MACHINE LEARNING  (Elective – 1)
+
+UNIT -I: The ingredients of machine learning, Tasks: the problems that can be solved with
+machine learning, Models: the output of machine learning, Features, the workhorses of machine
+learning. Binary classification and related tasks: Classification, Scoring and ranking, Class probability
+estimation
+UNIT- II: Beyond binary classification: Handling more than two classes, Regression, Unsupervised
+and descriptive learning. Concept learning: The hypothesis space, Paths through the hypothesis space,
+Beyond conjunctive concepts
+UNIT- III: Tree models: Decision trees, Ranking and probability estimation trees, Tree learning as
+variance reduction. Rule models: Learning ordered rule lists, Learning unordered rule sets, Descriptive
+rule learning, First-order rule learning
+UNIT -IV: Linear models: The least-squares method, The perceptron: a heuristic learning algorithm
+for linear classifiers, Support vector machines, obtaining probabilities from linear classifiers, Going
+beyond linearity with kernel methods. Distance Based Models: Introduction, Neighbours and
+exemplars, Nearest Neighbours classification, Distance Based Clustering, Hierarchical Clustering.
+UNIT- V: Probabilistic models: The normal distribution and its geometric interpretations,
+Probabilistic models for categorical data, Discriminative learning by optimising conditional likelihood
+Probabilistic models with hidden variables. Features: Kinds of feature, Feature transformations, Feature
+construction and selection. Model ensembles: Bagging and random forests, Boosting
+TEXT BOOKS:
+1. Machine Learning: The art and science of algorithms that make sense of data, Peter Flach,
+Cambridge.
+2. Machine Learning, Tom M. Mitchell, MGH.
+REFERENCE BOOKS:
+1. Understanding Machine Learning: From Theory to Algorithms, Shai Shalev-Shwartz, Shai Ben-
+David, Cambridge.
+3.       Machine Learning in Action, Peter Harington, 2012, Cengage.
+
+Elective -2  - CLOUD COMPUTING
+
+
+
+6.DIGITAL IMAGE PROCESSING             (Elective -2)
+
+UNIT I:
+Introduction: Applications of Computer Graphics and Image Processing, Fundamentals on Pixel
+concepts, effect of Aliasing and Jaggles, Advantages of high resolution systems
+DDA line algorithms: Bresenhams line and circle derivations and algorithms
+UNIT II:
+2-D Transformations: Translations, Scaling, rotation, reflection and shear transformations,
+Homogeneous coordinates, Composite Transformations- Reflection about an arbitrary line;
+Windowing and clipping, viewing transformations, Cohen- Sutherland clipping algorithm
+UNIT III:
+Digital Image Properties: Metric and topological properties of Digital Images, Histogram, entropy,
+Visual Perception, Image Quality, Color perceived by humans, Color Spaces, Palette Images, color
+Constancy
+Color Images: Pixel brightness transformations, Local Preprocessing, image smoothing, Edge detectors,
+Robert Operators, Laplace, Prewitt, Sobel, Fri-chen, Canny Edge detection
+UNIT IV:
+Mathematical Morphology: Basic Mathematical Concepts, Binary dilation and Erosion, Opening and
+closing, Gray Scale dilation and erosion, Skeleton, Thinning , Thickening Ultimate erosion, Geodesic
+transformations, Morphology and reconstruction, Morphological Segmentation
+UNIT V:
+SEGMENTATION: Threshold detection methods, Optimal Thresholding, Edge based Segmentation-
+Edge image thresholding, Edge relaxation, Border tracing, Hough Transforms, Region based
+segmentation: Region Mergingm Region Splitting, Splitting and Merging, Watershed Segmentation.
+Image Data Compression: Image data Properties, Discrete Image Transformations in data
+compression, Discrete Cosine and Wavelet Transforms, Types of DWT and merits; Predicative
+Compression methods, Hierarchical and Progressive Compression methods, Comparison of
+Compression methods, JPEG- MPEG Image Compression methods.
+Text Books:
+1. Computer Graphics C Version, Donald Hearn, M Paulli Baker , Pearson ( Unit I and Unit II)
+2. Image Processing, Analysis and Machine Vision, Millan Sonka, Vaclov Halvoc, Roger Boyle,
+Cengage Learning, 3ed, ( Unit III, Unit IV, Unit V and Unit VI)
+References:
+1. Computer & Machine Vision, Theory , Algorithms , Practicles, E R Davies, Elsevier, 4ed
+2. Digital Image Processing with MATLAB and LABVIEW, Vipul Singh, Elsevier
+
+
+6.PARALLEL ALGORITHMS (Elective – 2)
+
+UNIT1: Introduction:
+Computational demand in various application areas, advent of parallel processing, terminologypipelining,
+Data parallelism and control parallelism-Amdahl’s law.
+UNIT II: Scheduling:
+Organizational features of Processor Arrays, Multi processors and multi-computers. Mapping
+and scheduling aspects of algorithms. Mapping into meshes and hyper cubes-Load
+balancing-List scheduling algorithm Coffman-graham scheduling algorithm for parallel
+processors.
+UNIT III: Algorithms:
+Elementary Parallel algorithms on SIMD and MIMD machines, Analysis of these algorithms.
+Matrix Multiplication algorithms on SIMD and MIMD models. Fast Fourier Transform
+algorithms. Implementation on Hyper cube archi tectures. Solving linear file -system of
+equations, parallelizing aspects of sequential methods back substitution and Tri diagonal.
+UNIT IV: Sorting:
+Parallel sorting methods, Odd-even transposition Sorting on processor arrays, Biotonic
+,merge sort on shuffle - exchange ID , Array processor,2D-Mesh processor and Hypercube
+Processor Array. Parallel Quick-sort on Multi processors. Hyper Quick sort on hypercube multi
+computers. Parallel search operations. Ellis algorithm and Manber and ladner’s Algorithms for
+dictionary operations.
+UNIT V: Searching
+Parallel algorithms for Graph searching, All Pairs shortest paths and inimum cost spanning
+tree. Parallelization aspects of combinatorial search algorithms with Focus on Branch and
+Bound Methods and Alpha-beta Search methods.
+TEXT BOOKS:
+1. Parallel computing th e o r y and practice, Michel J.Quinn
+2. Programming Parallel Algorithms, Guy E. Blelloch, Communications of the ACM
+
+
+6.CLOUD COMPUTING (Elective -2)      selected
+
+UNIT I:
+Introduction: Network centric computing, Network centric content, peer-to –peer systems, cloud
+computing delivery models and services, Ethical issues, Vulnerabilities, Major challenges for cloud
+computing
+Parallel and Distributed Systems: introduction, architecture, distributed systems, communication
+protocols, logical clocks, message delivery rules, concurrency, model concurrency with Petri Nets.
+UNIT II:
+Cloud Infrastructure: At Amazon, The Google Perspective, Microsoft Windows Azure, Open Source
+Software Platforms, Cloud storage diversity, Inter cloud, energy use and ecological impact,
+responsibility sharing, user experience, Software licensing
+Cloud Computing : Applications and Paradigms: Challenges for cloud, existing cloud applications and
+new opportunities, architectural styles, workflows, The Zookeeper, The Map Reduce Program model,
+HPC on cloud, biological research
+UNIT III:
+Cloud Resource virtualization: Virtualization, layering and virtualization, virtual machine monitors,
+virtual machines, virtualization- full and para, performance and security isolation, hardware support for
+virtualization, Case Study: Xen, vBlades
+Cloud Resource Management and Scheduling: Policies and Mechanisms, Applications of control
+theory to task scheduling, Stability of a two-level resource allocation architecture, feed back control
+based on dynamic thresholds, coordination, resource bundling, scheduling algorithms, fair queuing, start
+time fair queuing, cloud scheduling subject to deadlines, Scheduling Map Reduce applications, Resource
+management and dynamic application scaling
+UNIT IV:
+Storage Systems: Evolution of storage technology, storage models, file systems and database,
+distributed file systems, general parallel file systems. Google file system., Apache Hadoop, Big Table,
+Megastore ( text book 1), Amazon Simple Storage Service(S3) (Text book 2)
+Cloud Security: Cloud security risks, security – atop concern for cloud users, privacy and privacy
+impact assessment, trust, OS security, Virtual machine security, Security risks
+UNIT V:
+Cloud Application Development: Amazon Web Services : EC2 – instances, connecting clients,
+security rules, launching, usage of S3 in Java, Installing Simple Notification Service on Ubuntu 10.04,
+Installing Hadoop on Eclipse, Cloud based simulation of a Distributed trust algorithm, Cloud service for
+adaptive data streaming ( Text Book 1)
+Google: Google App Engine, Google Web Toolkit (Text Book 2)
+Micro Soft: Azure Services Platform, Windows live, Exchange Online, Share Point Services, Microsoft
+Dynamics CRM (Text Book 2)
+
+TEXT BOOKS:
+1. Cloud Computing, Theory and Practice, Dan C Marinescu, MK Elsevier
+2. Cloud Computing, A Practical Approach, Anthony T Velte, Toby J Velte, Robert Elsenpeter,
+TMH
+REFERNCE BOOK:
+1. Mastering Cloud Computing, Foundations and Application Programming, Raj Kumar Buyya,
+Christen vecctiola, S Tammarai selvi, TMH
+
+
+6.MOBILE COMPUTING(Elective -2)
+
+UNIT- I
+Introduction: Mobile Communications, Mobile Computing – Paradigm, Promises/Novel Applications
+and Impediments and Architecture; Mobile and Handheld Devices, Limitations of Mobile and Handheld
+Devices.
+GSM – Services, System Architecture, Radio Interfaces, Protocols, Localization, Calling, Handover,
+Security, New Data Services, GPRS.
+UNIT –II
+(Wireless) Medium Access Control (MAC): Motivation for a specialized MAC (Hidden and exposed
+terminals, Near and far terminals), SDMA, FDMA, TDMA, CDMA, Wireless LAN/(IEEE 802.11)
+UNIT –III
+Mobile Network Layer: IP and Mobile IP Network Layers, Packet Delivery and Handover
+Management, Location Management, Registration, Tunneling and Encapsulation, Route Optimization,
+DHCP.
+UNIT –IV
+Mobile Transport Layer: Conventional TCP/IP Protocols, Indirect TCP, Snooping TCP, Mobile TCP,
+Other Transport Layer Protocols for Mobile Networks.
+Database Issues: Database Hoarding & Caching Techniques, Client-Server Computing & Adaptation,
+Transactional Models, Query processing, Data Recovery Process & QoS Issues.
+UNIT- V
+Data Dissemination and Synchronization : Communications Asymmetry, Classification of Data
+Delivery Mechanisms, Data Dissemination, Broadcast Models, Selective Tuning and Indexing Methods,
+Data Synchronization – Introduction, Software, and Protocols.
+Mobile Ad hoc Networks (MANETs) : Introduction, Applications & Challenges of a MANET,
+Routing, Classification of Routing Algorithms, Algorithms such as DSR, AODV, DSDV, etc. , Mobile
+Agents, Service Discovery.
+Protocols and Platforms for Mobile Computing: WAP, Bluetooth, XML, J2ME, Java Card, PalmOS,
+Windows CE, SymbianOS, Linux for Mobile Devices, Android.
+TEXT BOOKS:
+1. Jochen Schiller, “Mobile Communications”, Addison-Wesley, Second Edition, 2009.
+2. Raj Kamal, “Mobile Computing”, Oxford University Press, 2007, ISBN: 0195686772
+REFERENCE BOOKS:
+1. ASOKE K TALUKDER, HASAN AHMED, ROOPA R YAVAGAL, “Mobile Computing,
+Technology Applications and Service Creation” Second Edition, Mc Graw Hill.
+2. UWE Hansmann, Lother Merk, Martin S. Nocklous, Thomas Stober, “Principles of Mobile
+Computing,” Second Edition, Springer.
+
+CSE LAB-2
+
+1. a) Study of Unix/Linux general purpose utility command list
+man,who,cat, cd, cp, ps, ls, mv, rm, mkdir, rmdir, echo, more, date, time, kill, history,
+chmod, chown, finger, pwd, cal, logout, shutdown.
+b) Study of vi editor.
+c) Study of Bash shell, Bourne shell and C shell in Unix/Linux operating system.
+d) Study of Unix/Linux file system (tree structure).
+e) Study of .bashrc, /etc/bashrc and Environment variables.
+2. Write a C program that makes a copy of a file using standard I/O, and system calls
+3. Write a C program to emulate the UNIX ls –l command.
+4. Write a C program that illustrates how to execute two commands concurrently
+with a command pipe.
+Ex: - ls –l | sort
+5. Write a C program that illustrates two processes communicating using shared memory
+6. Write a C program to simulate producer and consumer problem usingsemaphores
+7. Write C program to create a thread using pthreads library and let it run its function.
+8. Write a C program to illustrate concurrent execution of threads using pthreads library.
+Understanding and using of commands like ifconfig, netstat, ping, arp, telnet, ftp, finger,
+traceroute, whoisetc. Usage of elementary socket system calls (socket (), bind(), listen(),
+accept(),connect(),send(),recv(),sendto(),recvfrom()).
+9. Implementation of Connection oriented concurrent service (TCP).
+10. Implementation of Connectionless Iterative time service (UDP).
+11. Implementation of Select system call.
+12. Implementation of gesockopt (), setsockopt () system calls.
+13. Implementation of getpeername () system call.
+14. Implementation of remote command execution using socket system calls.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.    Books
+
+
+SOFTWARE ENGG.(MSE)
+SECOND SEMESTER ME/MTECH SYLLABUS
+
+MSE-205 OBJECT ORIENTED ANALYSIS & DESIGN
+
+MSE-204 SOFTWARE VERIFICATION VALIDATION AND TESTING
+
+MSE-203 SOFTWARE ARCHITECTURE
+
+MSE-202 SOFTWARE QUALITY ASSURANCE
+
+MSE-201 SOFTWARE PROJECT MANAGEMENT
+
+FIRST SEMESTER ME/MTECH SYLLABUS
+MSE-105 ADVANCED COMPUTER NETWORKING
+
+MSE-104 OBJECT ORIENTED TECHNOLOGY
+
+MSE-103 SOFTWARE ENGINEERING
+
+MSE-102 ADVANCED DATA STRUCTURES AND ALGORITHM
+
+MSE-101 ADVANCED COMPUTATIONAL MATHEMATICS
+
+
+MTECH(CSE)
+M.TECH 1ST YEAR 1ST SEMESTER TEXT BOOKS AS PER JNTU-H(R13) SYLLABUS 
+
+ADVANCED DATA STRUCTURES (2 TEXT BOOKS PDF)
+
+ADVANCED OPERATING SYSTEM (TEXT BOOK PDF)
+
+COMPUTER SYSTEM DESIGN (2 TEXT BOOKS PDF)
+
+DISTRIBUTED SYSTEMS (TEXT BOOK PDF)
+
+SOFTWARE ARCHITECTURE AND DESIGN PATTERNS (2 TEXT BOOKS))
+
+SOFTWARE PROCESS AND PROJECT MANAGEMENT (TEXT BOOK))
+
+DISTRIBUTED SYSTEMS UNIT WISE MATERIALS
+
+FOR UNIT WISE MATERIALS CLICK 
+
+BELOW
+
+
+ADVANCED DATA STRUCTURE AND ALGORITHMS
+
+ADVANCED OPERATING SYSTEMS
+
+COMPUTER SYSTEM DESIGN
+
+SOFTWARE ARCHITECTURE AND DESIGN PATTERNS
+
+SOFTWARE PROJECT AND PROCESS MANAGEMENT
+
+FOR PREVIOUS PAPERS CLICK HERE
+M.TECH 1ST YEAR 2ND SEMESTER TEXT BOOKS AS PER JNTU-H SYLLABUS 
+
+ADVANCED DATA MINING
+ADVANCED DATABASES
+ADVANCED NETWORK PROGRAMMING
+GRID AND CLOUD COMPUTING
+INFORMATION RETRIEVAL SYSTEMS
+WEB SERVICES AND SERVICE ORIENTED ARCH.
+MOBILE COMMUNICATIONS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.    My notes
+
+  
+1.   ADVANCED DATA STRUCTURES AND ALGORITHM ANAYLSIS
+
+UNIT- I:
+Introduction to Data Structures, Singly Linked Lists, Doubly Linked Lists, Circular Lists-Algorithms.
+Stacks and Queues: Algorithm Implementation using Linked Lists.
+UNIT-II:
+Searching-Linear and Binary Search Methods. Sorting-Bubble Sort, Selection Sort, Insertion Sort, Quick
+Sort, Merge Sort. Trees- Binary trees, Properties, Representation and Traversals (DFT, BFT),
+Expression Trees(Infix,prefix,postfix).Graphs-Basic Concepts , Storage Structures and Traversals.
+UNIT- III:
+Dictionaries, ADT, The List ADT, Stack ADT, Queue ADT, Hash Table Representation, Hash
+Functions, Collision Resolution-Separate Chaining, Open Addressing-Linear Probing, Double Hashing.
+UNIT- IV:
+Priority queues- Definition, ADT, Realising a Priority Queue Using Heaps, Definition, Insertion,
+Deletion .Search Trees- Binary Search Trees, Definition, ADT, Implementation, Operations-Searching,
+Insertion, Deletion.
+UNIT –V:
+Search Trees- AVL Trees, Definition, Height of AVL Tree, Operations, Insertion, Deletion and
+Searching. Search Trees- Introduction to Red-Black and Splay Trees, B-Trees, Height of B-Tree,
+Insertion, Deletion and Searching, Comparison of Search Trees.
+TEXT BOOKS:
+1. Data Structures: A Pseudocode Approach, 2/e, Richard F.Gilberg, Behrouz A. Forouzon, Cengage.
+2. Data Structures, Algorithms and Applications in java, 2/e, Sartaj Sahni, University Press.
+https://technicalpublications.org/media/downloadable/techicalpublicationscontent/files/links/9/7/978-93-5099-508-2_advance_data_structures_ebook/
+
+REFERENCES BOOKS:
+1. Data Structures And Algorithm Analysis, 2/e, Mark Allen Weiss, Pearson.
+2. Data Structures And Algorithms, 3/e, Adam Drozdek, Cengage.
+3. C and Data Structures: A Snap Shot Oriented Treatise Using Live Engineering Examples,
+N.B.
+
+2.  MATHEMATICAL FOUNDATIONS OF COMPUTER SCIENCE
+
+UNIT- I:
+Mathematical Logic: Statements and notations, Connectives, Well formed formulas, Truth Tables,
+tautology, equivalence implication, Normal forms, Theory of inference for the statement calculus, Rules
+of inference, Consistency of premises and indirect method of proof, Automatic Theorem Proving
+Predicate calculus: Predicates, statement functions, variables and quantifiers, predicate formulas, free &
+bound variables, universe of discourse, inference theory of predicate calculus
+UNIT- II :
+Set theory & Relations: Introduction, Relations and ordering, Properties of binary Relations,
+Equivalence, Compatibility Relations, Partial ordering, Hasse diagram. Functions: composition of
+functions, Inverse Function, Recursive Functions, Lattice and its Properties, Pigeon hole Principles and
+its application. Algebraic structures: Algebraic systems, Examples and general properties, Semi groups
+and Monoids, groups, sub groups, Definitions, Examples, homomorphism, Isomorphism and related
+problems.
+UNIT- III:
+Elementary Combinatorics: Basis of counting, Enumeration of Combinations & Permutations,
+Enumerating of Combinations & Permutations with repetitions and constrained repetitions,
+Binomial Coefficients, Binomial Multinomial theorems, principles of Inclusion – Exclusion.
+UNIT- IV:
+Recurrence Relations: Generating Function of Sequences, Calculating Coefficient of generating
+functions, Recurrence relations, Solving recurrence relation by substitution and Generating
+functions, The method of Characteristic roots, Solution of Inhomogeneous Recurrence Relation.
+UNIT- V:
+Graph Theory: Representation of Graph, Spanning Trees, BFS, DFS, Kruskals Algorithm, Binary trees,
+Planar Graphs, Graph Theory and Applications, Basic Concepts, Isomorphism and Sub graphs, Multi
+graphs and Euler circuits, Hamiltonian graphs, Chromatic Numbers
+TEXT BOOKS:
+1. Discrete Mathematical Structures with Applications to computer science J.P Tremblery,
+R.Manohar, TMH
+2. Discrete Mathematical for computer Scientists & Mathematicians “ J.L. Molt, A.Kandel
+T.P.Baker, PHI
+REFERENCE TEXTBOOKS:
+1. Elements of Discrete Mathematics, C L Liu, D P Mohanpatra, TMH
+2. Discrete Mathematics, Schaum’s Outlines, Lipschutz, Lipson TMH.
+
+
+3.   COMPUTER ORGANIZATION AND ARCHITECTURE
+
+UNIT- I:
+Number Systems And Computer Arithmetic Signed And Unsigned Numbers, Addition and Subtraction,
+Multiplication, Division, Floating Point Representation Logical Operation, Gray Code, BCD Code,
+Error Detecting Codes. Boolean Algebra, Simplification of Boolean Expressions- Maps.
+UNIT- II:
+Combinational and Sequential Circuits Decoders, Encoders, Multiplexers, Half and Full Adders, Shift
+Registers, Flip-Flops, Binary Counters, Memory Unit.
+UNIT- III:
+Memory Organisation Memory Hierarchy, Main Memory, Auxiliary Memory, Associative Memory,
+Cache Memory, Virtual Memory Concept.
+UNIT- IV:
+ALU Design Addition and Subtraction, Sign and Unsigned Numbers, Multiplication and Division
+Algorithms, BCD Adders.
+UNIT- V :
+Input –Output Organisation Peripheral Devices, Input-Output Interface, Asynchronous data transfer,
+Modes of Transfer, Priority Interrupts, DMA, Input Output Processor, Serial Communication.
+TEXT BOOKS:
+1. Computer System Architecture, 3/e, Moris Mano, Pearson/PHI.
+2. Micro Processor and Interfacing, 2/e, Douglas V.Hall, TMH.
+https://technicalpublications.org/media/downloadable/techicalpublicationscontent/files/links/9/7/9789350999202_computer_organization_architecture_ebook/
+
+REFERENCE BOOKS:
+1. Digital Logic and Computer Organisation, Rajaraman, Radha Krishnan, PHI.
+2. Micro Computer Systems: 8086/8088 family, 2/e, Liu, Gibson, PHI.
+3. Computer Organisation and Architecture, 7/e, Stallings, Pearson.
+
+
+
+4.  DATABASE MANAGEMENT SYSTEMS
+
+UNIT- I:
+Database System Applications, Purpose of Database Systems, View of Data – Data Abstraction,
+Instances and Schemas, Data Models – the ER Model, Relational Model, Other Models – Database
+Languages – DDL, DML, Database Access from Applications Programs, Transaction Management,
+Data Storage and Querying, Database Architecture, Database Users and Administrators, History of
+Database Systems. Introduction to Database design, ER diagrams, Beyond ER Design, Entities,
+Attributes and Entity sets, Relationships and Relationship sets, Additional features of ER Model,
+Conceptual Design with the ER Model, Conceptual Design for Large enterprises. Relational Model:
+Introduction to the Relational Model – Integrity Constraints Over Relations, Enforcing Integrity
+constraints, Querying relational data, Logical data base Design, Introduction to Views – Destroying
+/altering Tables and Views.
+UNIT- II :
+Relational Algebra and Calculus: Relational Algebra – Selection and Projection, Set operations,
+Renaming, Joins, Division, Examples of Algebra Queries, Relational calculus – Tuple relational
+Calculus – Domain relational calculus – Expressive Power of Algebra and calculus. Form of Basic SQL
+Query – Examples of Basic SQL Queries, Introduction to Nested Queries, Correlated Nested Queries,
+Set – Comparison Operators, Aggregate Operators, NULL values – Comparison using Null values –
+Logical connectives – AND, OR and NOT – Impact on SQL Constructs, Outer Joins, Disallowing
+NULL values, Complex Integrity Constraints in SQL Triggers and Active Data bases.
+UNIT- III :
+Introduction to Schema Refinement – Problems Caused by redundancy, Decompositions – Problem
+related to decomposition, Functional
+Dependencies - Reasoning about FDS, Normal Forms – FIRST, SECOND, THIRD Normal forms –
+BCNF –Properties of Decompositions- Loss less- join Decomposition, Dependency preserving
+Decomposition, Schema Refinement in Data base Design – Multi valued Dependencies – FOURTH
+Normal Form, Join Dependencies, FIFTH Normal form, Inclusion Dependencies.
+UNIT- IV:
+Overview of Transaction Management: The ACID Properties, Transactions and Schedules, Concurrent
+Execution of Transactions – Lock Based Concurrency Control, Deadlocks – Performance of Locking –
+Transaction Support in SQL. Concurrency Control: Serializability, and recoverability – Introduction to
+Lock Management – Lock Conversions, Dealing with Dead Locks, Specialized Locking Techniques –
+Concurrency Control without Locking. Crash recovery: Introduction to Crash recovery, Introduction to
+ARIES, the Log , Other Recovery related Structures, the Write-Ahead Log Protocol, Check pointing,
+recovering from a System Crash, Media recovery
+
+ UNIT-V:
+Overview of Storage and Indexing: Data on External Storage, File Organization and Indexing –
+Clustered Indexes, Primary and Secondary Indexes, Index data Structures – Hash Based Indexing, Tree
+based Indexing, Comparison of File Organizations. Storing data: Disks and Files: -The Memory
+Hierarchy – Redundant Arrays of Independent Disks. Tree Structured Indexing: Intuitions for tree
+Indexes, Indexed Sequential Access Methods (ISAM) B+ Trees: A Dynamic Index Structure, Search,
+Insert, Delete. Hash Based Indexing: Static Hashing, Extendable hashing, Linear Hashing, Extendble
+vs.Linear Hashing.
+TEXT BOOKS:
+1. Database Management Systems, Raghu Ramakrishna, Johannes Gehrke, TMH, 3rd Edition,
+2003.
+2. Database System Concepts, A.Silberschatz, H.F. Korth, S. Sudarshan, McGraw hill, VI
+edition, 2006.
+3. Fundamentals of Database Systems 5th edition. Ramez Elmasri, Shamkant B.Navathe,
+Pearson Education, 2008.
+https://technicalpublications.org/media/downloadable/techicalpublicationscontent/files/links/9/7/978-93-5099-450-4_database_managemetn_systems_ebook/
+
+REFERENCE BOOKS:
+1. Database Management System Oracle SQL and PL/SQL,P.K.Das Gupta, PHI.
+2. Database System Concepts, Peter Rob & Carlos Coronel, Cengage Learning, 2008.
+3. Database Systems, A Practical approach to Design Implementation and Management Fourth
+edition, Thomas Connolly, Carolyn Begg, Pearson education.
+
+
+
+
+5.   ADVANCED OPERATING SYSTEMS
+
+UNIT - I:
+Architectures of Distributed Systems - System Architecture types - issues in distributed operating
+systems - communication networks - communication primitives. Theoretical Foundations - inherent
+limitations of a distributed system - lamp ports logical clocks - vector clocks - casual ordering of
+messages - global state - cuts of a distributed computation - termination detection. Distributed Mutual
+Exclusion - introduction - the classification of mutual exclusion and associated algorithms - a
+comparative performance analysis.
+UNIT - II:
+Distributed Deadlock Detection -Introduction - deadlock handling strategies in distributed systems -
+issues in deadlock detection and resolution - control organizations for distributed deadlock detection -
+centralized and distributed deadlock detection algorithms -hierarchical deadlock detection algorithms.
+Agreement protocols - introduction-the system model, a classification of agreement problems, solutions
+to the Byzantine agreement problem, applications of agreement algorithms. Distributed resource
+management: introduction-architecture - mechanism for building distributed file systems - design issues
+- log structured file systems.
+UNIT - III:
+Distributed shared memory-Architecture- algorithms for implementing DSM - memory coherence and
+protocols - design issues. Distributed Scheduling - introduction - issues in load distributing -
+components of a load distributing algorithm - stability - load distributing algorithm - performance
+comparison - selecting a suitable load sharing algorithm - requirements for load distributing -task
+migration and associated issues. Failure Recovery and Fault tolerance: introduction- basic concepts -
+classification of failures - backward and forward error recovery, backward error recovery- recovery in
+concurrent systems - consistent set of check points - synchronous and asynchronous check pointing and
+recovery - check pointing for distributed database systems- recovery in replicated distributed databases.
+UNIT - IV:
+Protection and security -preliminaries, the access matrix model and its implementations.-safety in matrix
+model- advanced models of protection. Data security - cryptography: Model of cryptography,
+conventional cryptography- modern cryptography, private key cryptography, data encryption standardpublic
+key cryptography - multiple encryption - authentication in distributed systems.
+UNIT - V:
+Multiprocessor operating systems - basic multiprocessor system architectures - inter connection
+networks for multiprocessor systems - caching - hypercube architecture. Multiprocessor Operating
+System - structures of multiprocessor operating system, operating system design issues- threads- process
+synchronization and scheduling. Database Operating systems :Introduction- requirements of a database
+operating system Concurrency control : theoretical aspects - introduction, database systems - a
+concurrency control model of database systems- the problem of concurrency control - serializability
+theory- distributed database systems, concurrency control algorithms - introduction, basic
+synchronization primitives, lock based algorithms-timestamp based algorithms, optimistic algorithms -
+concurrency control algorithms, data replication.
+
+TEXT BOOKS:
+1. Mukesh Singhal, Niranjan G.Shivaratri, "Advanced concepts in operating systems: Distributed,
+Database and multiprocessor operating systems", TMH, 2001
+https://technicalpublications.org/media/downloadable/techicalpublicationscontent/files/links/9/7/9789350999790_operating_system_ebook/
+
+REFERENCE Books:
+1. Andrew S.Tanenbaum, "Modern operating system", PHI, 2003
+2. Pradeep K.Sinha, "Distributed operating system-Concepts and design", PHI, 2003.
+3. Andrew S.Tanenbaum, "Distributed operating system", Pearson education, 2003
+
+
+6.  DATA WAREHOUSING AND DATA MINING
+
+UNIT 1: DATA WAREHOUSING:
+Data warehousing Components –Building a Data warehouse –- Mapping the Data Warehouse to
+a Multiprocessor Architecture – DBMS Schemas for Decision Support – Data Extraction, Cleanup,
+and Transformation Tools –Metadata.
+UNIT II: BUSINESS ANALYSIS:
+Reporting and Query tools and Applications – Tool Categories – The Need for Applications –
+Cognos Impromptu – Online Analytical Processing (OLAP) – Need – Multidimensional Data Model –
+OLAP Guidelines – Multidimensional versus Multirelational OLAP – Categories of Tools – OLAP
+Tools and the Internet.
+UNIT III: DATA MINING:
+Introduction – Data – Types of Data – Data Mining Functionalities – Interestingness of Patterns –
+Classification of Data Mining Systems – Data Mining Task Primitives – Integration of a Data
+Mining System with a Data Warehouse – Issues –Data Preprocessing.
+UNIT IV :ASSOCIATION RULE MINING AND CLASSIFICATION:
+Mining Frequent Patterns, Associations and Correlations – Mining Methods – Mining various Kinds
+of Association Rules – Correlation Analysis – Constraint Based Association Mining – Classification
+and Prediction – Basic Concepts – Decision Tree Induction – Bayesian Classification – Rule Based
+Classification – Classification by Back propagation – Support Vector Machines –
+Associative Classification – Lazy Learners – Other Classification Methods – Prediction.
+UNIT V : CLUSTERING AND TRENDS IN DATA MINING:
+Cluster Analysis – Types of Data – Categorization of Major Clustering Methods – K-means–
+Partitioning Methods – Hierarchical Methods – Density-Based Methods –Grid Based Methods –
+Model-Based Clustering Methods – Clustering High Dimensional Data – Constraint – Based Cluster
+Analysis – Outlier Analysis – Data Mining Applications.
+TEXT BOOKS:
+1. Alex Berson and Stephen J.Smith, “Data Warehousing, Data Mining and OLAP”, Tata
+McGraw – Hill Edition, Thirteenth Reprint 2008.
+2. Jiawei Han and Micheline Kamber, “Data Mining Concepts and Techniques”, Third
+Edition, Elsevier, 2012.
+AULibrary.com
+ https://technicalpublications.org/media/downloadable/techicalpublicationscontent/files/links/9/7/9789333202282_data_warehousing_data_mining_ebook/
+
+REFERENCES:
+1. Pang-Ning Tan, Michael Steinbach and Vipin Kumar, “Introduction to Data Mining”, Person
+Education, 2007.
+2. K.P. Soman, Shyam Diwakar and V. Aja, “Insight into Data Mining Theory and Practice”,
+Eastern Economy Edition, Prentice Hall of India, 2006.
+3. G. K. Gupta, “Introduction to Data Mining with Case Studies”, Eastern Economy Edition,
+Prentice Hall of India, 2006.
+4. Daniel T. Larose, “Data Mining Methods and Models”, Wiley-Interscience, 2006.
+
+
+LAB1. CSE LAB 1
+
+Data Structures Programs:
+1. To implement Stacks& Queues using Arrays & Linked Lists
+2. To implement Stack ADT, Queue ADT using arrays & Linked Lists
+3. To implement Dequeue using Double Linked List & Arrays
+4. To perform various Recursive & Non-recursive operations on Binary Search Tree
+5. To implement BFS & DFS for a graph
+6. To implement Merge & Heap sort of given elements
+7. To perform various operations on AVL trees
+8. To implement Krushkal’s algorithm to generate a min-cost spanning tree
+9. To implement Prim’s algorithm to generate min-cost spanning tree
+10.To implement functions of Dictionary using Hashing
+Operating system programs:
+1. Program to implement FCFS(First Come First Serve)scheduling Algorithms
+2. Program to implement SJF(Shortest Job First)Scheduling Algorithm
+3. Program to implement Priority Scheduling algorithm
+4. Program to implement Round Robin Scheduling algorithm
+5. Program to implement FIFO(First In First Out) Page Replacement Algorithm
+6. Program to implement LRU(least Recently used)Page Replacement Algorithm
+7. Program to implement LFU(Least Frequently used)Page Replacement Algorithm
+8. Write a program to implement how Disk Scheduling is done in operating system
+9. Draw the appropriate C.P.U performance graphs for SJF Scheduling Algorithm
+Operating system programs:
+10. Program to implement FCFS(First Come First Serve)scheduling Algorithms
+11. Program to implement SJF(Shortest Job First)Scheduling Algorithm
+12. Program to implement Priority Scheduling algorithm
+13. Program to implement Round Robin Scheduling algorithm
+14. Program to implement FIFO(First In First Out) Page Replacement Algorithm
+15. Program to implement LRU(least Recently used)Page Replacement Algorithm
+16. Program to implement LFU(Least Frequently used)Page Replacement Algorithm
+17. Write a program to implement how Disk Scheduling is done in operating system
+18. Draw the appropriate C.P.U performance graphs for SJF Scheduling Algorithm
+
+
+1.   CYBER SECURITY
+
+UNIT I:
+Introduction:
+Security Attacks (Interruption, Interception, Modification and Fabrication), Security Services
+(Confidentiality, Authentication, Integrity, Non-repudiation, access Control and Availability) and
+Mechanisms, A model for Internetwork security, Internet Standards and RFCs, Buffer overflow &
+format string vulnerabilities, TCP session hijacking, ARP attacks, route table modification, UDP
+hijacking, and man-in-the-middle attacks.
+UNIT II:
+Conventional Encryption:
+Conventional Encryption Principles, Conventional encryption algorithms, cipher block modes of
+operation, location of encryption devices, key distribution Approaches of Message Authentication,
+Secure Hash Functions and HMAC
+UNIT III:
+Number Theory: Prime and Relatively Prime Numbers, Modular Arithmetic, Fermat’s and Euler’s
+Theorems, The Chinese Remainder theorem, Discrete logarithms
+Public key: Public key cryptography principles, public key cryptography algorithms, digital
+signatures, digital Certificates, Certificate Authority and key management Kerberos, X.509
+Directory Authentication Service
+UNIT IV:
+IP Security: IP Security Overview, IP Security Architecture, Authentication Header,
+Encapsulating Security Payload, Combining Security Associations and Key Management
+Transport Level Security: Web Security Requirements, Secure Socket Layer (SSL) and
+Transport Layer Security (TLS), Secure Electronic Transaction (SET)
+Email Privacy: Pretty Good Privacy (PGP) and S/MIME.
+UNIT V:
+Intrusion Detection: Intruders, Intrusion Detection systems, Password Management.
+Malicious Software: Viruses and related threats & Countermeasures.
+Fire walls: Firewall Design principles, Trusted Systems.
+TEXT BOOKS:
+1.       Network Security & Cryptography: Principles and Practices, William Stallings, PEA, Sixth edition.
+2.      Hack Proofing your Network, Russell, Kaminsky, Forest Puppy, Wiley Dreamtech
+
+https://technicalpublications.org/media/downloadable/techicalpublicationscontent/files/links/9/7/978-93-332-0091-2_information_security_cyber_laws_ebook
+
+REFERENCE BOOKS:
+1. Network Security & Cryptography, Bernard Menezes, Cengage, 2010
+
+
+2.  COMPUTER NETWORKS
+
+UNIT – I:
+Introduction: Network Topologies WAN, LAN, MAN. Reference models- The OSI Reference Modelthe
+TCP/IP Reference Model - A Comparison of the OSI and TCP/IP Reference Models
+UNIT – II:
+Physical Layer – Fourier Analysis – Bandwidth Limited Signals – The Maximum Data Rate of a
+Channel - Guided Transmission Media, Digital Modulation and Multiplexing: Frequency Division
+Multiplexing, Time Division Multiplexing, Code Division Multiplexing
+Data Link Layer Design Issues, Error Detection and Correction, Elementary Data Link Protocols,
+Sliding Window Protocols
+UNIT – III:
+The Data Link Layer - Services Provided to the Network Layer – Framing – Error Control – Flow
+Control, Error Detection and Correction – Error-Correcting Codes – Error Detecting Codes, Elementary
+Data Link Protocols- A Utopian Simplex Protocol-A Simplex Stop and Wait Protocol for an Error free
+channel-A Simplex Stop and Wait Protocol for a Noisy Channel, Sliding Window Protocols-A One Bit
+Sliding Window Protocol-A Protocol Using Go-Back-N- A Protocol Using Selective Repeat
+UNIT – IV:
+The Medium Access Control Sublayer-The Channel Allocation Problem-Static Channel Allocation-
+Assumptions for Dynamic Channel Allocation, Multiple Access Protocols-Aloha-Carrier Sense Multiple
+Multiple Access Protocols-Collision-Free Protocols-Limited Contention Protocols-Wireless LAN
+Protocols, Ethernet-Classic Ethernet Physical Layer-Classic Ethernet MAC Sublayer Protocol-Ethernet
+Performance-Fast Ethernet Gigabit Ethernet-10-Gigabit Ethernet-Retrospective on Ethernet, Wireless
+Lans-The 802.11 Architecture and Protocol Stack-The 802.11 Physical Layer-The802.11 MAC Sublayer
+Protocol-The 805.11 Frame Structure-Services
+UNIT – V:
+Design Issues-The Network Layer Design Issues – Store and Forward Packet Switching-Services
+Provided to the Transport layer- Implementation of Connectionless Service-Implementation of
+Connection Oriented Service-Comparison of Virtual Circuit and Datagram Networks, Routing
+Algorithms-The Optimality principle-Shortest path Algorithm, Congestion Control Algorithms-
+Approaches to Congestion Control-Traffic Aware Routing-Admission Control-Traffic Throttling-Load
+Shedding.
+
+TEXT BOOKS:
+1. Computer Networks, Tanenbaum and David J Wetherall, 5th Edition, Pearson Edu, 2010
+2. Computer Networks: A Top Down Approach, Behrouz A. Forouzan, FirouzMosharraf, McGraw
+Hill Education
+https://technicalpublications.org/media/downloadable/techicalpublicationscontent/files/links/9/7/978-93-332-0078-3_computer_networks_ebook/
+
+REFERENCE BOOKS:
+1. Larry L. Peterson and Bruce S. Davie, “Computer Networks - A Systems Approach” (5th ed),
+Morgan Kaufmann/ Elsevier, 2011
+
+
+3.   BIG DATA ANALYTICS
+
+UNIT-I
+Data structures in Java: Linked List, Stacks, Queues, Sets, Maps; Generics: Generic classes and Type
+parameters, Implementing Generic Types, Generic Methods, Wrapper Classes, Concept of Serialization
+UNIT-II
+Working with Big Data: Google File System, Hadoop Distributed File System (HDFS) – Building
+blocks of Hadoop (Namenode, Datanode, Secondary Namenode, Job Tracker, Task Tracker),
+Introducing and Configuring Hadoop cluster (Local, Pseudo-distributed mode, Fully Distributed
+mode), Configuring XML files.
+UNIT-III
+Writing MapReduce Programs: A Weather Dataset, Understanding Hadoop API for MapReduce
+Framework (Old and New), Basic programs of Hadoop MapReduce: Driver code, Mapper code,
+Reducer code, Record Reader, Combiner, Partitioner
+UNIT-IV
+Hadoop I/O: The Writable Interface, Writable Comparable and comparators, Writable Classes:
+Writable wrappers for Java primitives, Text, Bytes Writable, Null Writable, Object Writable and
+Generic Writable, Writable collections, Implementing a Custom Writable: Implementing a Raw
+Comparator for speed, Custom comparators
+UNIT-V
+Pig: Hadoop Programming Made Easier
+Admiring the Pig Architecture, Going with the Pig Latin Application Flow, Working through the ABCs
+of Pig Latin, Evaluating Local and Distributed Modes of Running Pig Scripts, Checking out the Pig
+Script Interfaces, Scripting with Pig Latin
+Applying Structure to Hadoop Data with Hive:
+Saying Hello to Hive, Seeing How the Hive is Put Together, Getting Started with Apache Hive,
+Examining the Hive Clients, Working with Hive Data Types, Creating and Managing Databases and
+Tables, Seeing How the Hive Data Manipulation Language Works, Querying and Analyzing Data
+
+TEXT BOOKS:
+1. Big Java 4th Edition, Cay Horstmann, Wiley John Wiley& Sons, INC
+2. Hadoop: The Definitive Guide by Tom White, 3rd Edition, O’reilly
+3. Hadoop in Action by Chuck Lam, MANNING Publ.
+4. Hadoop for Dummies by Dirk deRoos, Paul C.Zikopoulos, Roman B.Melnyk,Bruce Brown,
+Rafael Coss
+REFERENCE BOOKS:
+1. Hadoop in Practice by Alex Holmes, MANNING Publ.
+2. Hadoop MapReduce Cookbook, Srinath Perera, Thilina Gunarathne
+SOFTWARE LINKS:
+1. Hadoop: http://hadoop.apache.org
+2. Hive: https://cwiki.apache.org/confluence/display/Hive/Home
+3. Piglatin: http://pig.apache.org/docs/r0.7.0/tutorial.html
+
+
+4.  ADVANCED UNIX PROGRAMMING
+
+UNIT-I
+Introduction to unix-Brief History-What is Unix-Unix Components-Using Unix-Commands in Unix-
+Some Basic Commands-Command Substitution-Giving Multiple Commands.
+UNIT-II
+The File system –The Basics of Files-What’s in a File-Directories and File Names-Permissions-I Nodes-
+The Directory Hierarchy, File Attributes and Permissions-The File Command knowing the File Type-
+The Chmod Command Changing File Permissions-The Chown Command Changing the Owner of a
+File-The Chgrp Command Changing the Group of a File.
+UNIT-III
+Using the Shell-Command Line Structure-Met characters-Creating New Commands-Command
+Arguments and Parameters-Program Output as Arguments-Shell Variables- -More on I/O Redirection-
+Looping in Shell Programs.
+UNIT-IV
+Filters-The Grep Family-Other Filters-The Stream Editor Sed-The AWK Pattern Scanning and
+processing Language-Good Files and Good Filters.
+UNIT-V
+Shell Programming-Shell Variables-The Export Command-The Profile File a Script Run During
+Starting-The First Shell Script-The read Command-Positional parameters-The $? Variable knowing the
+exit Status-More about the Set Command-The Exit Command-Branching Control Structures-Loop
+Control Structures-The Continue and Break Statement-The Expr Command: Performing Integer
+Arithmetic-Real Arithmetic in Shell Programs-The here Document(<<)-The Sleep Command-
+Debugging Scripts-The Script Command-The Eval Command-The Exec Command. The Process-The
+Meaning-Parent and Child Processes-Types of Processes-More about Foreground and Background
+processes-Internal and External Commands-Process Creation-The Trap Command-The Stty Command-
+The Kill Command-Job Control.
+TEXT BOOKS:
+1. The Unix programming Environment by Brain W. Kernighan& Rob Pike, Pearson.
+2. Introduction to Unix Shell Programming by M.G.Venkateshmurthy, Pearson.
+https://technicalpublications.org/media/downloadable/techicalpublicationscontent/files/links/9/7/978-93-5099-573-0_unix_system_programming_ebook/
+
+REFERENCE BOOKS:
+1. Unix and shell programmingby B.M. Harwani, OXFORD university press.
+
+5.   SOFTWARE ENGINEERING        (Elective – 1)
+
+UNIT-I:
+Software and Software Engineering: The Nature of Software, The Unique Nature of Web Apps,
+Software Engineering, Software Process, Software Engineering Practice, Software Myths.
+Process Models: A Generic Process Model, Process Assessment and Improvement, Prescriptive Process
+Models, Specialized Process Models, The Unified Process, Personal and Team Process Models, Process
+Terminology, Product and Process.
+UNIT-II:
+Requirements Analysis And Specification: Requirements Gathering and Analysis, Software
+Requirement Specification (SRS), Formal System Specification.
+Software Design: Overview of the Design Process, How to Characterise of a Design?, Cohesion and
+Coupling, Layered Arrangement of Modules, Approaches to Software Design
+UNIT – III:
+Function-Oriented Software Design: Overview of SA/SD Methodology, Structured Analysis,
+Developing the DFD Model of a System, Structured Design, Detailed Design, Design Review, over
+view of Object Oriented design.
+User Interface Design: Characteristics of Good User Interface, Basic Concepts, Types of User
+Interfaces, Fundamentals of Component-based GUI Development, A User Interface Design
+Methodology.
+UNIT – IV:
+Coding And Testing: Coding, Code Review, Software Documentation, Testing, Unit Testing, Black-
+Box Testing, White-Box Testing, Debugging, Program Analysis Tool, Integration Testing, Testing
+Object-Oriented Programs, System Testing, Some General Issues Associated with Testing
+UNIT – V:
+Software Reliability And Quality Management: Software Reliability, Statistical Testing, Software
+Quality, Software Quality Management System, ISO 9000, SEI Capability Maturity Model.
+Computer Aided Software Engineering: Case and its Scope, Case Environment, Case Support in
+Software Life Cycle, Other Characteristics of Case Tools, Towards Second Generation CASE Tool,
+Architecture of a Case Environment
+
+TEXT BOOKS:
+1. Software Engineering A practitioner’s Approach, Roger S. Pressman, Seventh Edition
+McGraw Hill International Edition.
+2. Fundamentals of Software Engineering, Rajib Mall, Third Edition, PHI.
+3. Software Engineering, Ian Sommerville, Ninth edition, Pearson education
+https://technicalpublications.org/media/downloadable/techicalpublicationscontent/files/links/9/7/978-93-332-0024-0_software_engineering_ebook/
+
+REFERENCE BOOKS:
+1. Software Engineering : A Primer, Waman S Jawadekar, Tata McGraw-Hill, 2008
+2. Software Engineering, A Precise Approach, Pankaj Jalote, Wiley India,2010.
+3. Software Engineering, Principles and Practices, Deepak Jain, Oxford University Press.
+4. Software Engineering1: Abstraction and modeling, Diner Bjorner, Springer International edition,
+2006.
+
+6.   CLOUD COMPUTING Elective -2 
+
+UNIT I:
+Introduction: Network centric computing, Network centric content, peer-to –peer systems, cloud
+computing delivery models and services, Ethical issues, Vulnerabilities, Major challenges for cloud
+computing
+Parallel and Distributed Systems: introduction, architecture, distributed systems, communication
+protocols, logical clocks, message delivery rules, concurrency, model concurrency with Petri Nets.
+UNIT II:
+Cloud Infrastructure: At Amazon, The Google Perspective, Microsoft Windows Azure, Open Source
+Software Platforms, Cloud storage diversity, Inter cloud, energy use and ecological impact,
+responsibility sharing, user experience, Software licensing
+Cloud Computing : Applications and Paradigms: Challenges for cloud, existing cloud applications and
+new opportunities, architectural styles, workflows, The Zookeeper, The Map Reduce Program model,
+HPC on cloud, biological research
+UNIT III:
+Cloud Resource virtualization: Virtualization, layering and virtualization, virtual machine monitors,
+virtual machines, virtualization- full and para, performance and security isolation, hardware support for
+virtualization, Case Study: Xen, vBlades
+Cloud Resource Management and Scheduling: Policies and Mechanisms, Applications of control
+theory to task scheduling, Stability of a two-level resource allocation architecture, feed back control
+based on dynamic thresholds, coordination, resource bundling, scheduling algorithms, fair queuing, start
+time fair queuing, cloud scheduling subject to deadlines, Scheduling Map Reduce applications, Resource
+management and dynamic application scaling
+UNIT IV:
+Storage Systems: Evolution of storage technology, storage models, file systems and database,
+distributed file systems, general parallel file systems. Google file system., Apache Hadoop, Big Table,
+Megastore ( text book 1), Amazon Simple Storage Service(S3) (Text book 2)
+Cloud Security: Cloud security risks, security – atop concern for cloud users, privacy and privacy
+impact assessment, trust, OS security, Virtual machine security, Security risks
+UNIT V:
+Cloud Application Development: Amazon Web Services : EC2 – instances, connecting clients,
+security rules, launching, usage of S3 in Java, Installing Simple Notification Service on Ubuntu 10.04,
+Installing Hadoop on Eclipse, Cloud based simulation of a Distributed trust algorithm, Cloud service for
+adaptive data streaming ( Text Book 1)
+Google: Google App Engine, Google Web Toolkit (Text Book 2)
+Micro Soft: Azure Services Platform, Windows live, Exchange Online, Share Point Services, Microsoft
+Dynamics CRM (Text Book 2)
+
+TEXT BOOKS:
+1. Cloud Computing, Theory and Practice, Dan C Marinescu, MK Elsevier
+2. Cloud Computing, A Practical Approach, Anthony T Velte, Toby J Velte, Robert Elsenpeter,
+TMH
+REFERNCE BOOK:
+1. Mastering Cloud Computing, Foundations and Application Programming, Raj Kumar Buyya,
+Christen vecctiola, S Tammarai selvi, TMH
+
+
+CSE LAB-2
+
+1. a) Study of Unix/Linux general purpose utility command list
+man,who,cat, cd, cp, ps, ls, mv, rm, mkdir, rmdir, echo, more, date, time, kill, history,
+chmod, chown, finger, pwd, cal, logout, shutdown.
+b) Study of vi editor.
+c) Study of Bash shell, Bourne shell and C shell in Unix/Linux operating system.
+d) Study of Unix/Linux file system (tree structure).
+e) Study of .bashrc, /etc/bashrc and Environment variables.
+2. Write a C program that makes a copy of a file using standard I/O, and system calls
+3. Write a C program to emulate the UNIX ls –l command.
+4. Write a C program that illustrates how to execute two commands concurrently
+with a command pipe.
+Ex: - ls –l | sort
+5. Write a C program that illustrates two processes communicating using shared memory
+6. Write a C program to simulate producer and consumer problem usingsemaphores
+7. Write C program to create a thread using pthreads library and let it run its function.
+8. Write a C program to illustrate concurrent execution of threads using pthreads library.
+Understanding and using of commands like ifconfig, netstat, ping, arp, telnet, ftp, finger,
+traceroute, whoisetc. Usage of elementary socket system calls (socket (), bind(), listen(),
+accept(),connect(),send(),recv(),sendto(),recvfrom()).
+9. Implementation of Connection oriented concurrent service (TCP).
+10. Implementation of Connectionless Iterative time service (UDP).
+11. Implementation of Select system call.
+12. Implementation of gesockopt (), setsockopt () system calls.
+13. Implementation of getpeername () system call.
+14. Implementation of remote command execution using socket system calls.
